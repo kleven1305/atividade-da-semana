@@ -1,4 +1,3 @@
-
 numero = int(input('digite de 1 a 7: '))
 
 if numero == 1:
@@ -22,7 +21,5 @@ elif numero == 6:
 elif numero == 7:
     print('sabado')
 
-else :
-    print('nao existe')
 
     
